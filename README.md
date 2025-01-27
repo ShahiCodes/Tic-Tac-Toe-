@@ -25,7 +25,7 @@ This repository contains the source code for a modern and responsive Tic-Tac-Toe
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/ShahiCodes/Tic-Tac-Toe-.git
    cd tic-tac-toe
    ```
 
