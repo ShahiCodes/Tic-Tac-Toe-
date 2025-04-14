@@ -12,7 +12,11 @@ This repository contains the source code for a modern and responsive Tic-Tac-Toe
   
 - **Beautiful UI/UX**: The interface is intuitive, dynamic, and visually appealing, crafted with **Tailwind CSS**.
 
-- **Bot AI**: In Player vs Bot mode, the bot uses a simple algorithm to make moves and provide a challenging experience.
+**Bot AI**: In Player vs Bot mode, the bot uses a simple algorithm to make moves and provide a challenging experience.
+
+- **Difficulty Levels for Bot**: Choose from three difficulty levels for the bot – Easy, Medium, and Hard, to adjust the bot's challenge.
+
+- **Game Reset and Mode Switching**: Easily reset the game or switch between PvP and Player vs Bot modes with a button click.
 
 ## Tech Stack ⚙️
 
@@ -48,6 +52,11 @@ This repository contains the source code for a modern and responsive Tic-Tac-Toe
 - Choose between **PvP Mode** and **Player vs Bot Mode** from the main menu.
 - In **PvP Mode**, two players take turns to place their marks (X or O) on a 3x3 grid, aiming to get three of their marks in a row (horizontally, vertically, or diagonally).
 - In **Player vs Bot Mode**, the player competes against an AI bot, with the bot making strategic moves based on its difficulty setting.
+
+## Live Link 🌐
+
+You can play the game live here: [Tic-Tac-Toe Game](https://shahicodes.github.io/Tic-Tac-Toe-/)
+
 
 ## Contributing 🤝
 
